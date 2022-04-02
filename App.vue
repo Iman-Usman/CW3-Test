@@ -11,7 +11,6 @@
     </main>
   </div>
 </template>
-    
     <script>
     import productList from "./components/ProductList.vue";
     import checkout from "./components/Form.vue";
